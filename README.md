@@ -1,4 +1,5 @@
-### Hi there 👋 , I'm Abhinav 
+### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> , I'm Abhinav 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <a href="https://twitter.com/abhinavbansal30">
   <img align="left" alt="AbhinavBansal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>

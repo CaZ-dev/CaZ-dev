@@ -12,7 +12,7 @@ Hi, I'm Abhinav Bansal, an upcoming Full Stack Developer 🚀 from India, Beside
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Java ,JavaScript and Kubernetes; 
+- 🌱 I’m currently learning Java, JavaScript and Kubernetes; 
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: abhinavbansal30@gmail.com;

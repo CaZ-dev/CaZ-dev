@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi, I'm Abhinav Bansal, an upcoming Full Stack Developer 🚀 from India. Currently working on some of my cool side projects based on Web Development and looking for oppertunities to contribute in any and every possible way, Beside's programming, I enjoy listening to music and traveling.
+Hi, I'm Abhinav Bansal, an upcoming Full Stack Developer 🚀 from India. Currently working on some of my cool side projects based on Web Development and looking for opportunities to contribute in any and every possible way, Beside's programming, I enjoy listening to music and traveling.
   
 **Talking about Personal Stuffs:**
 

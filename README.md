@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"> , I'm Abhinav 
+### Hi there, I'm Abhinav 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 <a href="https://twitter.com/abhinavbansal30">
   <img align="left" alt="AbhinavBansal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -9,14 +9,14 @@
 <br />
 <br />
 
-Hi, I'm Abhinav Bansal, an upcoming Full Stack Developer 🚀 from India. Currently working on some of my cool side projects based on Web Development and looking for opportunities to contribute in any and every possible way, Beside's programming, I enjoy listening to music and traveling.
+Hi, I'm Abhinav Bansal, a Full Stack Developer 🚀 from India. Currently working on some of my cool side projects based on Web Development and looking for opportunities to contribute in any and every possible way, Beside's programming, I enjoy listening to music and traveling.
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Java, JavaScript and Kubernetes; 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🌱 I’m currently learning Docker and Kubernetes; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: abhinavbansal30@gmail.com;
+-  My personal portfolio: https://abhinav-bansal-30.netlify.app/
 
 
 **Languages and Tools:**  
